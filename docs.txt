@@ -1,0 +1,16 @@
+Template library with diverse professional designs
+Drag-and-drop editor for easy customization
+AI-powered content suggestions for skills and job descriptions we will use openrouter with api key
+ATS (Applicant Tracking System) compatibility checker
+application managment
+Grammar and spelling correction
+Keyword optimization for specific job descriptions
+Multiple export formats (PDF, DOCX, TXT)
+Resume scoring and feedback system
+LinkedIn profile integration/import
+Pre-written section examples and suggestions
+One-click formatting tools
+Version history and comparison
+Cover letter creation tools
+Personal information management
+use supabase for database auth files and storage etc like everything
